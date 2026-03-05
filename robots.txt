@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kartik7232.github.io/sitemap.xml
